@@ -1,4 +1,4 @@
 haf
 mňau
 búúúúúúú
-posledni radek
+toto je posledni radek, konec souboru
